@@ -1,0 +1,30 @@
+artificial intelligence
+machine learning
+deep learning
+NLP
+computer vision
+tensorflow
+keras
+pytorch
+neural networks
+reinforcement learning
+GANs
+convolutional networks
+transformers
+bert
+llms
+huggingface
+speech recognition
+AI models
+data preprocessing
+model training
+deployment
+Flask
+FastAPI
+python
+gpu
+cloud ai
+openai
+langchain
+prompt engineering
+embeddings

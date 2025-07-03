@@ -1,0 +1,30 @@
+machine learning
+data analysis
+python
+R
+statistics
+SQL
+data visualization
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+deep learning
+NLP
+AI
+big data
+spark
+hadoop
+data mining
+matplotlib
+seaborn
+model deployment
+feature engineering
+clustering
+regression
+classification
+predictive modeling
+data wrangling
+A/B testing
+Jupyter

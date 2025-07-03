@@ -1,0 +1,30 @@
+network security
+information security
+firewalls
+IDS
+IPS
+SIEM
+threat hunting
+penetration testing
+vulnerability assessment
+risk management
+incident response
+encryption
+VPN
+SOC
+forensics
+compliance
+NIST
+ISO 27001
+Linux
+Windows
+Wireshark
+Metasploit
+Kali Linux
+malware analysis
+Python
+PowerShell
+access control
+IAM
+zero trust
+cloud security

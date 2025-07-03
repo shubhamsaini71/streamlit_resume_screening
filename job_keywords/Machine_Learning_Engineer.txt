@@ -1,0 +1,30 @@
+machine learning
+deep learning
+neural networks
+tensorflow
+keras
+scikit-learn
+pytorch
+XGBoost
+LightGBM
+pandas
+numpy
+model tuning
+feature selection
+data preprocessing
+data wrangling
+model evaluation
+classification
+regression
+clustering
+NLP
+computer vision
+AI
+hyperparameter tuning
+cross-validation
+ML pipeline
+model deployment
+Flask
+FastAPI
+MLflow
+Docker

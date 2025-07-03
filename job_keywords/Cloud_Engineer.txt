@@ -1,0 +1,31 @@
+AWS
+Azure
+GCP
+cloud architecture
+EC2
+S3
+IAM
+VPC
+Lambda
+CloudFormation
+Terraform
+DevOps
+monitoring
+Kubernetes
+Docker
+Bash
+Python
+Windows Server
+Linux
+networking
+firewall
+load balancer
+cloud security
+cost optimization
+availability zones
+disaster recovery
+cloud storage
+cloud databases
+hybrid cloud
+VPN
+incident response

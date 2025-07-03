@@ -1,0 +1,30 @@
+product lifecycle
+agile
+scrum
+roadmap
+backlog
+stakeholder management
+user stories
+MVP
+KPI
+OKR
+market research
+competitive analysis
+PRD
+BRD
+customer feedback
+data analysis
+SQL
+A/B testing
+JIRA
+Confluence
+Figma
+wireframes
+prototyping
+UX
+communication
+collaboration
+prioritization
+problem solving
+strategic planning
+release management

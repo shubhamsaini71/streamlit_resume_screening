@@ -1,0 +1,31 @@
+Java
+Node.js
+Python
+C#
+.NET
+Spring Boot
+REST API
+GraphQL
+SQL
+NoSQL
+PostgreSQL
+MongoDB
+MySQL
+Redis
+Docker
+Kubernetes
+AWS
+Azure
+GCP
+microservices
+server-side
+authentication
+JWT
+OAuth
+CI/CD
+Unit Testing
+Integration Testing
+Linux
+system design
+Agile
+Git

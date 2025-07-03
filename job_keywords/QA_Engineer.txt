@@ -1,0 +1,30 @@
+test cases
+test plans
+manual testing
+automation testing
+Selenium
+JUnit
+TestNG
+Postman
+API testing
+performance testing
+load testing
+JMeter
+bug tracking
+JIRA
+Agile
+Scrum
+regression testing
+unit testing
+integration testing
+UAT
+CI/CD
+Jenkins
+Python
+Java
+REST API
+UI testing
+cross-browser testing
+security testing
+mobile testing
+test scripts

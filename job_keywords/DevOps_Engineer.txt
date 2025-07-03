@@ -1,0 +1,30 @@
+CI/CD
+Jenkins
+GitLab CI
+Docker
+Kubernetes
+Terraform
+Ansible
+AWS
+Azure
+GCP
+cloud infrastructure
+Linux
+shell scripting
+Python
+monitoring
+Prometheus
+Grafana
+Nagios
+Splunk
+ELK stack
+system administration
+Nginx
+Apache
+load balancing
+scalability
+infrastructure as code
+configuration management
+networking
+firewalls
+security

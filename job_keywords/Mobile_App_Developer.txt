@@ -1,0 +1,30 @@
+Android
+iOS
+Flutter
+React Native
+Swift
+Kotlin
+Java
+mobile development
+API integration
+UI/UX
+Play Store
+App Store
+Firebase
+SQLite
+navigation
+state management
+animations
+push notifications
+REST API
+GraphQL
+version control
+agile
+debugging
+testing
+mobile design
+cross-platform
+native apps
+build tools
+gradle
+Xcode

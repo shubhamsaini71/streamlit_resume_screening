@@ -1,0 +1,30 @@
+Java
+Python
+C++
+software development
+OOP
+Git
+Agile
+Scrum
+REST API
+microservices
+SQL
+NoSQL
+JavaScript
+React
+Node.js
+unit testing
+CI/CD
+DevOps
+Docker
+Kubernetes
+cloud computing
+AWS
+Azure
+GCP
+backend
+frontend
+debugging
+data structures
+algorithms
+system design

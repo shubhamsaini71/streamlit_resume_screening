@@ -1,0 +1,30 @@
+Windows Server
+Linux
+Active Directory
+DNS
+DHCP
+PowerShell
+Bash
+Shell scripting
+VMware
+Hyper-V
+monitoring
+Nagios
+Puppet
+Ansible
+patch management
+firewalls
+security
+backup
+disaster recovery
+RAID
+user management
+file permissions
+remote access
+VPN
+networking
+troubleshooting
+hardware
+software
+technical support
+server maintenance

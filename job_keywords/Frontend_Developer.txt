@@ -1,0 +1,31 @@
+HTML
+CSS
+JavaScript
+React
+Vue.js
+Angular
+frontend
+UI/UX
+responsive design
+Bootstrap
+SASS
+webpack
+npm
+TypeScript
+ES6
+DOM
+AJAX
+jQuery
+Figma
+Adobe XD
+cross-browser
+W3C
+accessibility
+performance optimization
+REST API
+frontend testing
+unit testing
+Jest
+Redux
+GraphQL
+Tailwind CSS
